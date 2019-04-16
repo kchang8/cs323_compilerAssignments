@@ -1,0 +1,2 @@
+Sat Feb  2 19:11:48 2019|41|logFunc()|Error|Invalid Statement
+Sat Feb  2 19:11:48 2019|22|logRead()|Success|None
